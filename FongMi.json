@@ -42,7 +42,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": {
-			"分类url":"电影网站网址/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+			"分类url":"https://www.zxzja.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
 			"分类":"电影$1#美剧$2#日剧$4#韩剧$3#泰剧$5#动漫$6" }
         },
 		{"key":"黑木耳采集","name":"黑木耳源","type":1,"api":"https://xml.heimuer.tv/api.php/provide/vod/","playUrl":"https://player.heimuer.tv/index.html?url=","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1},
